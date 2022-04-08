@@ -1,4 +1,4 @@
-# Internal Sharing Section Slides
+# Slides from internal sharing section
 
 ## Git
 
